@@ -1,0 +1,14 @@
+- 👋 Hi, I’m @nodeo29  
+- 👀 I’m passionate about software development, especially backend and frontend integration, Agile methodologies, and building scalable, robust applications.  
+- 🌱 I’m currently learning AWS Cloud Practitioner concepts and enhancing my skills in Low-Code development with Mendix.  
+- 💻 Technical Skills:  
+  - **Languages:** Java, JavaScript, C#, TypeScript, SQL, NoSQL, HTML, CSS, PHP  
+  - **Frameworks/Tools:** Angular, Spring, CodeIgniter, IntelliJ, Visual Studio Code  
+  - **Database Systems:** PostgreSQL, MariaDB, MongoDB  
+  - **Development Practices:** Git, GitLab, Agile, Jira, Confluence  
+- 💞️ I’m looking to collaborate on innovative projects that challenge my technical expertise and involve modern technologies like cloud solutions or full-stack development.  
+- 📫 How to reach me:  
+  - Email: tanguyrozfac@outlook.fr  
+  - LinkedIn: [Tanguy Rozuel](https://www.linkedin.com/in/tanguy-rozuel-208646192/)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: When I’m not coding, I enjoy traveling and practicing sports like swimming, basketball, and American football!
