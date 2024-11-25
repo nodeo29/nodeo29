@@ -10,5 +10,4 @@
 - 📫 How to reach me:  
   - Email: tanguyrozfac@outlook.fr  
   - LinkedIn: [Tanguy Rozuel](https://www.linkedin.com/in/tanguy-rozuel-208646192/)  
-- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: When I’m not coding, I enjoy traveling and practicing sports like swimming, basketball, and American football!
